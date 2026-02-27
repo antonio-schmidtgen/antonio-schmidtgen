@@ -1,39 +1,48 @@
-# Hi, I’m Antonio 👋
+# Hi, I'm Antonio 👋
 
-I’m a **Data Analytics student at SPICED (Berlin)** with a strong focus on turning data into **clear, actionable insights**.
+Aspiring Data Analyst based in Berlin, focused on turning data into clear, business-driven insights using Python, SQL, and Tableau.
 
 ---
 
-## 📊 What I’m working on
-- Data analysis with **Python & Pandas**
-- Exploratory Data Analysis (EDA)
-- **SQL (PostgreSQL)** for real-world datasets
-- Statistics, regression & clustering
-- Data visualization & dashboards (Tableau)
+## 🚀 Featured Projects
+
+### 📊 Exploratory Data Analysis – Retail Dataset
+- Cleaned and transformed raw transactional data using Pandas
+- Identified revenue drivers and customer patterns
+- Built visualizations to support decision-making  
+**Tools:** Python, Pandas, Seaborn
+
+---
+
+### 🗄 SQL Business Case – Customer Segmentation
+- Wrote complex PostgreSQL queries to analyze customer lifetime value
+- Created cohort analysis and retention metrics
+- Delivered actionable segmentation insights  
+**Tools:** PostgreSQL
+
+---
+
+### 📈 Interactive Dashboard – Sales Performance
+- Designed KPI dashboard to track revenue, churn, and performance trends
+- Focused on clarity and stakeholder usability  
+**Tools:** Tableau
 
 ---
 
 ## 🛠 Tech Stack
-- Python (Pandas, NumPy, SciPy)
-- Matplotlib & Seaborn
-- scikit-learn
-- PostgreSQL
-- JupyterLab
+
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- **SQL** (PostgreSQL)
+- **Data Visualization** (Tableau)
 - Git & GitHub
+- JupyterLab
 
 ---
 
-## 📂 Projects
-This GitHub documents my learning journey and projects during the SPICED Data Analytics bootcamp:
-- Data cleaning & analysis notebooks
-- SQL queries and database exercises
-- Exploratory analysis & visualizations
-- End-to-end analytics projects
+## 📍 About Me
 
----
+- Based in Berlin 🇩🇪
+- Background in structured problem-solving
+- Strong focus on analytical clarity and business impact
 
-## 📍 About me
-Based in **Berlin, Germany**.  
-I enjoy structured problem-solving, clean analysis, and communicating insights clearly.
-
-More projects coming soon 🚀
+Currently open to Data Analyst roles (English-speaking environments).
