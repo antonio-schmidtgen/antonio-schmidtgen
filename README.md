@@ -1,4 +1,4 @@
-# Hi, I'm Antonio 👋
+# Hi, I'm Antonio 👋🏾
 
 Aspiring Data Analyst based in Berlin, focused on turning data into clear, business-driven insights using Python, SQL, and Tableau.
 
