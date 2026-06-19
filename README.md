@@ -10,7 +10,7 @@ Junior Data Analyst based in Berlin, focused on turning data into clear insights
 
 My data analytics capstone project — an end-to-end analysis of Berlin's Airbnb market using real data from Inside Airbnb (14,274 listings).
 
-(Screenshot) [Berlin Short-Term Rental Market dashboard](https://github.com/antonio-schmidtgen/berlin-short-term-rental-market-analysis/blob/main/dashboard_overview.jpg?raw=true)
+
 <img width="1400" height="1000" alt="dashboard_overview" src="https://github.com/user-attachments/assets/368267f7-35c3-4fd0-8880-c95be5a5b1bd" />
 
 
