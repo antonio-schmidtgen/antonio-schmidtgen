@@ -34,12 +34,11 @@ Explore the interactive Tableau dashboard.
 
 ---
 
-## 🌱 Currently Building
+## 🌱 Currently
 
-Two smaller projects to broaden my portfolio:
-
-* **Web scraping project** — collecting and cleaning real-world data with Python (requests, BeautifulSoup) to demonstrate data acquisition skills
-* **Interactive dashboard** — a Streamlit app for presenting data interactively and complementing my Tableau work
+* Deepening my SQL: joins, aggregations, and business queries
+* Improving my dashboard design in Tableau
+* Practising on new datasets to keep my analysis skills sharp
 
 ---
 
