@@ -11,7 +11,7 @@ Junior Data Analyst based in Berlin, focused on turning data into clear insights
 My data analytics capstone project — an end-to-end analysis of Berlin's Airbnb market using real data from Inside Airbnb (14,274 listings).
 
 (Screenshot) [Berlin Short-Term Rental Market dashboard](https://github.com/antonio-schmidtgen/berlin-short-term-rental-market-analysis/blob/main/dashboard_overview.jpg?raw=true)
-<img width="1500" height="1044" alt="dashboard_overview" src="https://github.com/user-attachments/assets/368267f7-35c3-4fd0-8880-c95be5a5b1bd" />
+<img width="1400" height="1000" alt="dashboard_overview" src="https://github.com/user-attachments/assets/368267f7-35c3-4fd0-8880-c95be5a5b1bd" />
 
 
 * Cleaned and prepared the raw data in Python (pandas), handling missing values, messy prices, and outliers with documented decisions
@@ -22,7 +22,15 @@ My data analytics capstone project — an end-to-end analysis of Berlin's Airbnb
 
 **Tools:** Python (pandas, matplotlib), PostgreSQL, Tableau, Jupyter, Git
 
-🔗 [View the project](https://github.com/antonio-schmidtgen/berlin-short-term-rental-market-analysis)
+🔗 **Project Repository:**  
+View the complete project files and notebooks on GitHub.  
+[View the GitHub repository](https://github.com/antonio-schmidtgen/berlin-short-term-rental-market-analysis)
+
+📊 **Interactive Dashboard:**  
+Explore the interactive Tableau dashboard.  
+[View the dashboard on Tableau](https://dub01.online.tableau.com/t/neuefischedataanalytics/authoring/BerlinShort-TermRentalMarketOverview/Dashboard1#1)
+
+
 
 ---
 
